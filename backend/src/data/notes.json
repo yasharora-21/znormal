@@ -1,0 +1,36 @@
+[
+  {
+    "title": "hello",
+    "content": "1+1 = 2 and if we do 2+2 then it will become 4",
+    "id": "037224bd-3b7b-465d-a8a1-de49517edc5e",
+    "createdAt": "2025-06-27T08:20:42.700Z",
+    "isPinned": false
+  },
+  {
+    "title": "Testing",
+    "content": "Well we are here to make this thing fully searching and filter functional",
+    "id": "a3fcd62f-121e-45ab-8345-59e2721e9601",
+    "createdAt": "2025-06-27T10:05:40.894Z",
+    "isPinned": false
+  },
+  {
+    "title": "Trip to Haridwar",
+    "content": "We are planning to go on a trip with friends and I want that she will also come with me",
+    "id": "90686727-f2b4-46ba-bb9e-6012547b433a",
+    "createdAt": "2025-06-27T10:09:55.432Z",
+    "isPinned": false
+  },
+  {
+    "title": "My To-Do list",
+    "content": "Today I have many thigs to do including this typing test and more of that, it will be a flexing type thing.",
+    "id": "8c682296-b008-4b61-9d74-e77278afd37f",
+    "createdAt": "2025-06-30T07:29:11.901Z"
+  },
+  {
+    "title": "2-July-2025",
+    "content": "Today the date is july 2 and today im sick",
+    "category": "Health",
+    "id": "b30f9079-fb48-423a-8f17-7a123a7bd875",
+    "createdAt": "2025-07-02T05:03:17.669Z"
+  }
+]
